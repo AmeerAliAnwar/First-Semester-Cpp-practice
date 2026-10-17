@@ -1,0 +1,10 @@
+# Compiled output
+*.exe
+*.out
+*.o
+*.obj
+
+# Build leftovers
+gmon.out
+desktop.ini
+*.stackdump
